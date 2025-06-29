@@ -1,6 +1,3 @@
-Apologies for that! Here's the **complete `README.md`** content with everything fully enclosed in proper Markdown code blocks as you asked:
-
-````md
 # 📚 ALX Book Store Database Project
 
 Welcome to the **Intro_to_DB** project! This repository demonstrates the design and implementation of a MySQL database for an online bookstore. It includes schema creation, data population, and basic database operations using SQL and Python.
